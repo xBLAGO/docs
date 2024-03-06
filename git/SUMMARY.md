@@ -9,6 +9,7 @@
 * [♾️ Токеномика](overview/tokenomics.md)
 * [🤖 Бот телеграм](overview/bot-telegram.md)
 * [💻 Веб приложение](overview/veb-prilozhenie.md)
+* [👾 Нейросеть](overview/neiroset.md)
 
 ## Инструкции
 
