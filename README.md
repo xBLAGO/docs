@@ -22,6 +22,6 @@ The development of technology has made it possible to erase state borders, uniti
 
 ## Quick links
 
-{% content-ref url="obzor/blockchain.md" %}
-[blockchain.md](obzor/blockchain.md)
+{% content-ref url="review/blockchain.md" %}
+[blockchain.md](review/blockchain.md)
 {% endcontent-ref %}
