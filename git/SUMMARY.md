@@ -2,7 +2,7 @@
 
 * [🌄 Добро пожаловать!](README.md)
 
-## Обзор <a href="#overview" id="overview"></a>
+## 1️⃣ Обзор <a href="#overview" id="overview"></a>
 
 * [🌈 Возможности](overview/vozmozhnosti.md)
 * [🌱 Блокчейн](overview/blockchain.md)
@@ -11,7 +11,7 @@
 * [💻 Веб приложение](overview/veb-prilozhenie.md)
 * [👾 Нейросеть](overview/neiroset.md)
 
-## Инструкции
+## 2️⃣ Инструкции
 
 * [🤖 Бот телеграм](instrukcii/bot-telegram.md)
 * [💻 Веб приложение](instrukcii/veb-prilozhenie.md)
