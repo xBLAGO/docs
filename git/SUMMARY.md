@@ -19,3 +19,4 @@
 ***
 
 * [📬 Контакты](kontakty.md)
+* [💸 Приём инвестиций](priyom-investicii.md)
