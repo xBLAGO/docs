@@ -16,7 +16,7 @@ _\* You can pay with cryptocurrency._
 
 Send cryptocurrency to any of the addresses below, then notify us of your transfer via the [**xBLAGObot**](https://xblagobot.t.me) telegram bot.
 
-_<mark style="color:green;">(path: START -></mark>_ 🇷🇺﻿ _<mark style="color:green;">EN -> BUY -> SEND IN CRYPTO -> SEND IN CRYPTO)</mark>_
+_<mark style="color:green;">(path: START -></mark> 🇺🇸_ _<mark style="color:green;">EN -> BUY -> SEND IN CRYPTO -> SEND IN CRYPTO)</mark>_
 
 **BTC** `bc1qj57prhakrh82gh57a9jkc8gplttr8ddsymlhrv`&#x20;
 
