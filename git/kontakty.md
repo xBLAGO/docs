@@ -4,7 +4,7 @@
 
 [**xBLAGObot**](https://xblagobot.t.me) Telegram bot
 
-[**DApp**](https://blago.pages.dev)
+[**DApp**](https://xblago.github.io/web/ru/ru\_home/)
 
 [**Medium**](https://xblago.medium.com/blago-meta-space-a5094eafde76)
 
