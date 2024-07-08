@@ -3,7 +3,7 @@
 BLAGO investment tokens give you the opportunity to become a member of the network, as well as preserve and increase the amount of assets. The funds received help the community implement the project.дзеж
 
 {% hint style="info" %}
-_Before the launch of the main network (06/12/2024), we consider the people supporting our project to be early investors, therefore we are ready to provide them with 4 times more **BLAGO** tokens relative to their investment amount._
+_Before the launch of the main network we consider the people supporting our project to be early investors, therefore we are ready to provide them with 4 times more **BLAGO** tokens relative to their investment amount._
 {% endhint %}
 
 _<mark style="background-color:yellow;">**1 BLAGO = 1 BTC**</mark>_
