@@ -10,30 +10,28 @@ Now, basically, the components of the BLAGO network are ready-made solutions fro
 
 ## Blockchain
 
-> #### Для задач сети **BLAGO**, связанных с финансовыми операциями используется блокчейн **TON (The Open Network)**, так как он кажется наиболее быстрым и масштабируемым среди других. Так же плюсом является совместная интеграция с мессенджером Telegram, что улучшает и упрощает разработку сети.&#x20;
+> **For tasks of the BLAGO network related to financial transactions, the TON (The Open Network) blockchain is used, as it seems to be the fastest and most scalable among others. Another plus is the joint integration with the Telegram messenger, which improves and simplifies network development.**
 >
-> На данный момент в блокчейне **TON**, через приложение [minter](https://minter.ton.org/), создан простой смарт-контракт с жетоном xBLAGO.&#x20;
+> At the moment, a simple smart contract with the **xBLAGO** token has been created in the **TON** blockchain, through the [minter](https://minter.ton.org/) application.
 >
->
->
-> _Выбор блокчейна и других компонентов сети может меняться в зависимости от потребностей сообщества и задач, которые необходимо решить. Так, например, созданы тестовые смарт-контракты в сетях **SOLANA** и **BNB Smart Chain**._
+> The choice of blockchain and other network components may change depending on the needs of the community and the problems that need to be solved. For example, test smart contracts have been created in the **SOLANA** and **BNB Smart Chain** networks.
 
 
 
 {% hint style="info" %}
-**Адреса смарт-контрактов:**
+**Smart contract addresses:**
 
-**TON:** `EQAaHYC0j9lwrVfrjx5tntNDgxRvGSeojjg6oppo8jPn3WIu`
+**TON:** EQAaHYC0j9lwrVfrjx5tntNDgxRvGSeojjg6oppo8jPn3WIu
 
-Ссылка на [tonscan](https://tonscan.org/jetton/EQAaHYC0j9lwrVfrjx5tntNDgxRvGSeojjg6oppo8jPn3WIu).
+Link to [tonscan](https://tonscan.org/jetton/EQAaHYC0j9lwrVfrjx5tntNDgxRvGSeojjg6oppo8jPn3WIu).
 
-**SOLANA (devnet):** `EQAaHYC0j9lwrVfrjx5tntNDgxRvGSeojjg6oppo8jPn3WIu`
+**SOLANA:** 58HHLMMwuWam6hXTU2BDuy6k1rt4h6nDckJZ25Ekpump
 
-Ссылка на [solana explorer](https://explorer.solana.com/address/ANQh98ZhCpakRzNnPMiuHHPUcbrkqyErDcN3xzz77Jyt?cluster=devnet).
+Link to[ ](https://explorer.solana.com/address/ANQh98ZhCpakRzNnPMiuHHPUcbrkqyErDcN3xzz77Jyt?cluster=devnet)[solscan](https://solscan.io/token/58HHLMMwuWam6hXTU2BDuy6k1rt4h6nDckJZ25Ekpump).
 
-**BNB Smart Chain:** `0x1b1f6f336ebc0d596b1abb7e05cf6e4b89adf1c9`
+**BNB Smart Chain:** 0x1b1f6f336ebc0d596b1abb7e05cf6e4b89adf1c9
 
-Ссылка на [bscscan](https://bscscan.com/token/0x1b1f6f336ebc0d596b1abb7e05cf6e4b89adf1c9).
+Link to[ bscscan](https://bscscan.com/token/0x1b1f6f336ebc0d596b1abb7e05cf6e4b89adf1c9).
 {% endhint %}
 
 ## Management
