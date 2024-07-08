@@ -40,7 +40,7 @@ The functionality of the **BLAGO** network is controlled through the telegram bo
 
 ## Network monitoring
 
-Actions to track all operations are tracked through a web application inside the [xBLAGObot](https://xblagobot.t.me) telegram bot or on the **BLAGO** **scanner** [website](https://xblago.github.io/web/). Here, transactions of all users are broadcast, which are grouped and summarized into statistical data.
+Actions to track all operations are tracked through a web application inside the [xBLAGObot](https://xblagobot.t.me) telegram bot or on the **BLAGO** **scanner** [website](https://xblago.space). Here, transactions of all users are broadcast, which are grouped and summarized into statistical data.
 
 
 
